@@ -86,9 +86,11 @@ After preprocessing, the final dataset contained **336 acquisitions** and **49 f
 | Linear Regression    | $1.74B   | $1.31B  | -0.20  | 6.68%  |
 | Gradient Boosting    | $1.63B   | $1.28B  | -0.05  | 6.55%  |
 | **Ensemble (Best)**  | **$1.60B** | **$1.26B** | **-0.01** | **6.42%** |
+![Figure_7](https://github.com/user-attachments/assets/ab35a48a-3a03-45bc-af7e-2dde0431bff5)
 
 ### 🥇 Best Classifier:  
 - **SVM** with 83.6% test accuracy
+![img1](https://github.com/user-attachments/assets/e62c6e41-3c97-40fa-85cd-17db32a0fc36)
 
 ---
 
@@ -99,6 +101,7 @@ After preprocessing, the final dataset contained **336 acquisitions** and **49 f
 - Public companies had higher acquisition prices
 - Location (California, San Francisco) was a strong predictor
 - Simple models like **Linear SVM** outperformed complex models in some cases
+![Uploading Figure_3.png…]()
 
 ---
 
