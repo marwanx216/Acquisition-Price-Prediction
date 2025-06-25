@@ -128,7 +128,8 @@ After preprocessing, the final dataset contained **336 acquisitions** and **49 f
 ## 📄 Report
 
 The full project report with visualizations and model comparisons can be found here:  
-📎 `Machine Learning Project Report.pdf` (attach it or link to it if hosted)
+📎 `Machine Learning Project Report.pdf` [Uploading Milestone 1 Report SC_23.pdf…]()
+
 
 ---
 
